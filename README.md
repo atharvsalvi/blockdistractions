@@ -17,10 +17,30 @@ BlockDistractions is a Chrome extension designed to help you focus by removing d
     ```
 
 2.  **Load the extension in Chrome**:
-    *   Open Google Chrome and navigate to `chrome://extensions/`.
-    *   Enable **Developer mode** by toggling the switch in the top right corner.
-    *   Click the **Load unpacked** button in the top left.
-    *   Select the directory where you cloned this repository (the folder containing `manifest.json`).
+
+    ### Step 1
+    ![Step 1](instructions/instruction1.png)
+    Click on the extensions icon in your browser toolbar.
+
+    ### Step 2
+    ![Step 2](instructions/instruction2.png)
+    Click on 'Manage extensions'.
+
+    ### Step 3
+    ![Step 3](instructions/instruction3.png)
+    Click the 'Load unpacked' button in the top left corner. (Ensure 'Developer mode' is enabled).
+
+    ### Step 4
+    ![Step 4](instructions/instruction4.png)
+    Navigate to the directory where you cloned the repository.
+
+    ### Step 5
+    ![Step 5](instructions/instruction5.png)
+    Click the 'Select Folder' button.
+
+    ### Step 6
+    ![Step 6](instructions/instruction6.png)
+    The extension should now appear in your browser.
 
 ## Usage
 
